@@ -1,0 +1,2 @@
+# isitFriday
+is it friday
